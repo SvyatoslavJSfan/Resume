@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(225, 226, 226);
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
+a:visited {
+    color: gray;
+}
+
+h1 {
+    color: teal;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 25);
+    
+}
+
+.info p {
+    color: violet;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    word-spacing: 10px;
+}
+
+.container {
+    max-width: 75%;
+    margin: auto;
+}
+
+.social {
+    background: skyblue;
+    padding: 15 px 40 px;
+    margin: 100 px;
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg-yellow {
+    background: #fff9dc;
+}
+
+.bg-green {
+    background: #ffe5e5;
+}
+
+.bg-blue {
+    background: rgb(165, 170, 248);;
+}
